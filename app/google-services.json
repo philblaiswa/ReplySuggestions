@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "821591059144",
+    "firebase_url": "https://sms-auto-replies-demo.firebaseio.com",
+    "project_id": "sms-auto-replies-demo",
+    "storage_bucket": "sms-auto-replies-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821591059144:android:32d444924495d76d",
+        "android_client_info": {
+          "package_name": "com.example.replysuggestions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821591059144-d2kcmm7nsa1otq9ihpiuqancv7gq2q90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEs3O16AxVfgdx677-KEvGKcvBUYz7mXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821591059144-d2kcmm7nsa1otq9ihpiuqancv7gq2q90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
